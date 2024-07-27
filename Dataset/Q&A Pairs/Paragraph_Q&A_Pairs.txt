@@ -1,0 +1,158 @@
+[
+  {
+    "user_input": "What is the purpose of Table 1 in the document?",
+    "bot_response": "Table 1 gives a general comparative rating of 'burndown' herbicides used in no-till corn and/or soybean production."
+  },
+  {
+    "user_input": "What factors can influence the performance of burndown herbicides?",
+    "bot_response": "Herbicide rate, weed size and stage of growth, and environmental conditions interact to influence herbicide performance."
+  },
+  {
+    "user_input": "What is the weed control rating for a score of 9?",
+    "bot_response": "A weed control rating of 9 means 90% to 100% control."
+  },
+  {
+    "user_input": "What does a weed control rating of 8 indicate?",
+    "bot_response": "A weed control rating of 8 indicates 80% to 90% control."
+  },
+  {
+    "user_input": "What does a weed control rating of 7 indicate?",
+    "bot_response": "A weed control rating of 7 indicates 70% to 80% control."
+  },
+  {
+    "user_input": "What does a weed control rating of 6 indicate?",
+    "bot_response": "A weed control rating of 6 indicates 60% to 70% control."
+  },
+  {
+    "user_input": "What does a weed control rating of less than 6 indicate?",
+    "bot_response": "A weed control rating of less than 6 indicates less than 60% control and is not recommended."
+  },
+  {
+    "user_input": "What is the weed control rating for a score of '-'?",
+    "bot_response": "A weed control rating of '-' indicates less than 60% control and is not recommended."
+  },
+  {
+    "user_input": "What are the ratings based on?",
+    "bot_response": "The ratings are for control of existing vegetation only (not residual control)."
+  },
+  {
+    "user_input": "How should treatments containing glyphosate be applied?",
+    "bot_response": "Treatments containing glyphosate should be applied with AMS (and surfactant if required by the glyphosate product label)."
+  },
+  {
+    "user_input": "How should most other treatments be applied?",
+    "bot_response": "Most other treatments should be applied with a COC or MSO (plus UAN if recommended by the label)."
+  },
+  {
+    "user_input": "What is the standard application rate for 2,4-D?",
+    "bot_response": "The ratings for 2,4-D are based on a rate of 0.5 lb. ae/A unless otherwise indicated."
+  },
+  {
+    "user_input": "How can the control of legumes, dandelion, marestail, and some other weeds be improved?",
+    "bot_response": "Increasing the 2,4-D rate to 1.0 lb. ae/A will improve control of legumes, dandelion, marestail, and some other weeds."
+  },
+  {
+    "user_input": "What is the impact of unfavorable conditions on herbicide performance?",
+    "bot_response": "Under unfavorable conditions, some herbicides may not perform as well as indicated."
+  },
+  {
+    "user_input": "What is the impact of very favorable conditions on herbicide performance?",
+    "bot_response": "Under very favorable conditions, control may be better than indicated."
+  },
+  {
+    "user_input": "What is the main focus of Table 1 in the document?",
+    "bot_response": "The main focus of Table 1 is to provide a general comparative rating of 'burndown' herbicides used in no-till corn and/or soybean production."
+  },
+  {
+    "user_input": "Under what conditions might some herbicides not perform as well as indicated?",
+    "bot_response": "Under unfavorable conditions, some herbicides may not perform as well as indicated in the table."
+  },
+  {
+    "user_input": "How does herbicide rate influence performance?",
+    "bot_response": "Herbicide rate influences performance as it interacts with weed size, stage of growth, and environmental conditions."
+  },
+  {
+    "user_input": "What is the weed control rating for 9 in percentage?",
+    "bot_response": "A weed control rating of 9 corresponds to 90% to 100% control."
+  },
+  {
+    "user_input": "What percentage control does a rating of 8 represent?",
+    "bot_response": "A rating of 8 represents 80% to 90% weed control."
+  },
+  {
+    "user_input": "What does a rating of 7 mean in terms of weed control percentage?",
+    "bot_response": "A rating of 7 means 70% to 80% weed control."
+  },
+  {
+    "user_input": "If a herbicide has a rating of 6, what is its control percentage?",
+    "bot_response": "A rating of 6 indicates 60% to 70% weed control."
+  },
+  {
+    "user_input": "What does a rating below 6 signify?",
+    "bot_response": "A rating below 6 signifies less than 60% weed control and is not recommended."
+  },
+  {
+    "user_input": "For what type of control are these ratings applicable?",
+    "bot_response": "These ratings are applicable for control of existing vegetation only, not residual control."
+  },
+  {
+    "user_input": "What should be applied with treatments containing glyphosate?",
+    "bot_response": "Treatments containing glyphosate should be applied with AMS (and surfactant if required by the glyphosate product label)."
+  },
+  {
+    "user_input": "What additional agents should be used with most other treatments?",
+    "bot_response": "Most other treatments should be applied with a COC or MSO (plus UAN if recommended by the label)."
+  },
+  {
+    "user_input": "What is the default application rate for 2,4-D?",
+    "bot_response": "The default application rate for 2,4-D is 0.5 lb. ae/A unless otherwise indicated."
+  },
+  {
+    "user_input": "How can you improve control of legumes, dandelion, and marestail?",
+    "bot_response": "Increasing the 2,4-D rate to 1.0 lb. ae/A will improve control of legumes, dandelion, marestail, and some other weeds."
+  },
+  {
+    "user_input": "What is the significance of environmental conditions on herbicide performance?",
+    "bot_response": "Environmental conditions can significantly impact herbicide performance, making it better or worse than the indicated ratings."
+  },
+  {
+    "user_input": "Why might herbicides perform better than indicated under certain conditions?",
+    "bot_response": "Herbicides might perform better than indicated under very favorable conditions."
+  },
+  {
+    "user_input": "What is the recommended mix for treatments containing glyphosate?",
+    "bot_response": "The recommended mix for treatments containing glyphosate includes AMS and surfactant if required by the product label."
+  },
+  {
+    "user_input": "How do you apply most treatments for effective weed control?",
+    "bot_response": "Most treatments should be applied with a COC or MSO, and UAN if recommended by the label, for effective weed control."
+  },
+  {
+    "user_input": "What does 'burndown' herbicide mean?",
+    "bot_response": "'Burndown' herbicide refers to herbicides used to control existing vegetation before planting crops."
+  },
+  {
+    "user_input": "In what context are 'burndown' herbicides used according to the document?",
+    "bot_response": "'Burndown' herbicides are used in no-till corn and/or soybean production."
+  },
+  {
+    "user_input": "How should 2,4-D be applied to improve weed control?",
+    "bot_response": "To improve weed control, 2,4-D should be applied at a rate of 1.0 lb. ae/A for better control of legumes, dandelion, marestail, and other weeds."
+  },
+  {
+    "user_input": "What is AMS and why is it used with glyphosate?",
+    "bot_response": "AMS stands for Ammonium Sulfate. It is used with glyphosate to enhance its effectiveness."
+  },
+  {
+    "user_input": "What should be considered when applying herbicides in unfavorable conditions?",
+    "bot_response": "When applying herbicides in unfavorable conditions, consider that they may not perform as well as indicated in the ratings."
+  },
+  {
+    "user_input": "What additional factor should be applied with COC or MSO for certain treatments?",
+    "bot_response": "UAN (Urea Ammonium Nitrate) should be applied with COC or MSO if recommended by the label for certain treatments."
+  },
+  {
+    "user_input": "What does a COC or MSO stand for?",
+    "bot_response": "COC stands for Crop Oil Concentrate and MSO stands for Methylated Seed Oil."
+  }
+]
