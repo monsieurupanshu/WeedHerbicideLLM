@@ -15,3 +15,5 @@ The trained model achieved high accuracy in providing herbicide recommendations.
 
 - Input: "Recommend a herbicide for Giant Foxtail in Spring."
 - Output: "Herbicide: Glyphosate, Effectiveness: 90-100%"
+  
+### ChatBot Template
