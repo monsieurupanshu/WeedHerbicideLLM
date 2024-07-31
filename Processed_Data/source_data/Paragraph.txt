@@ -1,0 +1,25 @@
+Title: Weed Response to “Burndown” Herbicides
+
+## Table 1: Weed Response to “Burndown” Herbicides
+
+### Description
+This table gives a general comparative rating of “burndown” herbicides used in no-till corn and/or soybean production. 
+
+### Performance Notes
+- Under unfavorable conditions, some herbicides may not perform as well as indicated below.
+- Under very favorable conditions, control may be better than indicated.
+- Herbicide rate, weed size and stage of growth, and environmental conditions interact to influence herbicide performance.
+
+### Weed Control Rating
+- 9 = 90% to 100%
+- 8 = 80% to 90%
+- 7 = 70% to 80%
+- 6 = 60% to 70% control
+- - = less than 60% control, not recommended.
+
+### Application Notes
+- Ratings are for control of existing vegetation only (not residual control).
+- Treatments containing glyphosate should be applied with AMS (and surfactant if required by the glyphosate product label).
+- Most other treatments should be applied with a COC or MSO (plus UAN if recommended by the label).
+- Ratings for 2,4-D are based on a rate of 0.5 lb. ae/A unless otherwise indicated.
+- Increasing the 2,4-D rate to 1.0 lb. ae/A will improve control of legumes, dandelion, marestail, and some other weeds.
