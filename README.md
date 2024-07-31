@@ -17,3 +17,4 @@ The trained model achieved high accuracy in providing herbicide recommendations.
 - Output: "Herbicide: Glyphosate, Effectiveness: 90-100%"
   
 ### ChatBot Template
+![Alt text](https://github.com/monsieurupanshu/WeedHerbicideLLM/blob/main/ChatBot.png)
