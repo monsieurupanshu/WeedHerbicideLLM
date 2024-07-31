@@ -1,0 +1,39 @@
+{"prompt":"What is the purpose of Table 1 in the document?","completion":"Table 1 gives a general comparative rating of 'burndown' herbicides used in no-till corn and/or soybean production."}
+{"prompt":"What factors can influence the performance of burndown herbicides?","completion":"Herbicide rate, weed size and stage of growth, and environmental conditions interact to influence herbicide performance."}
+{"prompt":"What is the weed control rating for a score of 9?","completion":"A weed control rating of 9 means 90% to 100% control."}
+{"prompt":"What does a weed control rating of 8 indicate?","completion":"A weed control rating of 8 indicates 80% to 90% control."}
+{"prompt":"What does a weed control rating of 7 indicate?","completion":"A weed control rating of 7 indicates 70% to 80% control."}
+{"prompt":"What does a weed control rating of 6 indicate?","completion":"A weed control rating of 6 indicates 60% to 70% control."}
+{"prompt":"What does a weed control rating of less than 6 indicate?","completion":"A weed control rating of less than 6 indicates less than 60% control and is not recommended."}
+{"prompt":"What is the weed control rating for a score of '-'?","completion":"A weed control rating of '-' indicates less than 60% control and is not recommended."}
+{"prompt":"What are the ratings based on?","completion":"The ratings are for control of existing vegetation only (not residual control)."}
+{"prompt":"How should treatments containing glyphosate be applied?","completion":"Treatments containing glyphosate should be applied with AMS (and surfactant if required by the glyphosate product label)."}
+{"prompt":"How should most other treatments be applied?","completion":"Most other treatments should be applied with a COC or MSO (plus UAN if recommended by the label)."}
+{"prompt":"What is the standard application rate for 2,4-D?","completion":"The ratings for 2,4-D are based on a rate of 0.5 lb. ae/A unless otherwise indicated."}
+{"prompt":"How can the control of legumes, dandelion, marestail, and some other weeds be improved?","completion":"Increasing the 2,4-D rate to 1.0 lb. ae/A will improve control of legumes, dandelion, marestail, and some other weeds."}
+{"prompt":"What is the impact of unfavorable conditions on herbicide performance?","completion":"Under unfavorable conditions, some herbicides may not perform as well as indicated."}
+{"prompt":"What is the impact of very favorable conditions on herbicide performance?","completion":"Under very favorable conditions, control may be better than indicated."}
+{"prompt":"What is the main focus of Table 1 in the document?","completion":"The main focus of Table 1 is to provide a general comparative rating of 'burndown' herbicides used in no-till corn and/or soybean production."}
+{"prompt":"Under what conditions might some herbicides not perform as well as indicated?","completion":"Under unfavorable conditions, some herbicides may not perform as well as indicated in the table."}
+{"prompt":"How does herbicide rate influence performance?","completion":"Herbicide rate influences performance as it interacts with weed size, stage of growth, and environmental conditions."}
+{"prompt":"What is the weed control rating for 9 in percentage?","completion":"A weed control rating of 9 corresponds to 90% to 100% control."}
+{"prompt":"What percentage control does a rating of 8 represent?","completion":"A rating of 8 represents 80% to 90% weed control."}
+{"prompt":"What does a rating of 7 mean in terms of weed control percentage?","completion":"A rating of 7 means 70% to 80% weed control."}
+{"prompt":"If a herbicide has a rating of 6, what is its control percentage?","completion":"A rating of 6 indicates 60% to 70% weed control."}
+{"prompt":"What does a rating below 6 signify?","completion":"A rating below 6 signifies less than 60% weed control and is not recommended."}
+{"prompt":"For what type of control are these ratings applicable?","completion":"These ratings are applicable for control of existing vegetation only, not residual control."}
+{"prompt":"What should be applied with treatments containing glyphosate?","completion":"Treatments containing glyphosate should be applied with AMS (and surfactant if required by the glyphosate product label)."}
+{"prompt":"What additional agents should be used with most other treatments?","completion":"Most other treatments should be applied with a COC or MSO (plus UAN if recommended by the label)."}
+{"prompt":"What is the default application rate for 2,4-D?","completion":"The default application rate for 2,4-D is 0.5 lb. ae/A unless otherwise indicated."}
+{"prompt":"How can you improve control of legumes, dandelion, and marestail?","completion":"Increasing the 2,4-D rate to 1.0 lb. ae/A will improve control of legumes, dandelion, marestail, and some other weeds."}
+{"prompt":"What is the significance of environmental conditions on herbicide performance?","completion":"Environmental conditions can significantly impact herbicide performance, making it better or worse than the indicated ratings."}
+{"prompt":"Why might herbicides perform better than indicated under certain conditions?","completion":"Herbicides might perform better than indicated under very favorable conditions."}
+{"prompt":"What is the recommended mix for treatments containing glyphosate?","completion":"The recommended mix for treatments containing glyphosate includes AMS and surfactant if required by the product label."}
+{"prompt":"How do you apply most treatments for effective weed control?","completion":"Most treatments should be applied with a COC or MSO, and UAN if recommended by the label, for effective weed control."}
+{"prompt":"What does 'burndown' herbicide mean?","completion":"'Burndown' herbicide refers to herbicides used to control existing vegetation before planting crops."}
+{"prompt":"In what context are 'burndown' herbicides used according to the document?","completion":"'Burndown' herbicides are used in no-till corn and/or soybean production."}
+{"prompt":"How should 2,4-D be applied to improve weed control?","completion":"To improve weed control, 2,4-D should be applied at a rate of 1.0 lb. ae/A for better control of legumes, dandelion, marestail, and other weeds."}
+{"prompt":"What is AMS and why is it used with glyphosate?","completion":"AMS stands for Ammonium Sulfate. It is used with glyphosate to enhance its effectiveness."}
+{"prompt":"What should be considered when applying herbicides in unfavorable conditions?","completion":"When applying herbicides in unfavorable conditions, consider that they may not perform as well as indicated in the ratings."}
+{"prompt":"What additional factor should be applied with COC or MSO for certain treatments?","completion":"UAN (Urea Ammonium Nitrate) should be applied with COC or MSO if recommended by the label for certain treatments."}
+{"prompt":"What does a COC or MSO stand for?","completion":"COC stands for Crop Oil Concentrate and MSO stands for Methylated Seed Oil."}
