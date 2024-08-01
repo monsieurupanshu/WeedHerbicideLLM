@@ -11,7 +11,7 @@ We used tools like Camelot and Pandas to extract data from the provided PDF file
 The extracted data was cleaned and formatted into a text format suitable for training the LLM. This involved converting CSV rows into structured sentences and ensuring consistency across the dataset.
 
 ### Results
-The trained model achieved high accuracy in providing herbicide recommendations. Below are some example outputs from the model:
+The trained model will be providing herbicide recommendations based on the Weed Guide. Below are some example outputs from the model:
 
 - Input: "Recommend a herbicide for Giant Foxtail in Spring."
 - Output: "Herbicide: Glyphosate, Effectiveness: 90-100%"
