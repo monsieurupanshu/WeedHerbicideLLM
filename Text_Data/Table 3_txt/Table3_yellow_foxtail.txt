@@ -1,0 +1,32 @@
+Acetochlor provides 90% to 100% control of Yellow Foxtail, with a rating of 9.
+Acetochlor + atrazine provides 90% to 100% control of Yellow Foxtail, with a rating of 9.
+Acuron provides 90% to 100% control of Yellow Foxtail, with a rating of 9.
+Acuron Flexi provides 90% to 100% control of Yellow Foxtail, with a rating of 9.
+Anthem Flex/Maxx provides 80% to 90% control of Yellow Foxtail, with a rating of 8.
+Atrazine provides 70% to 80% control of Yellow Foxtail, with a rating of 7.
+Atrazine + mesotrione + metolachlor provides 90% to 100% control of Yellow Foxtail, with a rating of 9.
+Balance Flexx provides 60% to 70% control of Yellow Foxtail, with a rating of 6.
+Corvus provides 80% to 90% control of Yellow Foxtail, with a rating of 8+.
+Coyote provides 90% to 100% control of Yellow Foxtail, with a rating of 9.
+Fierce EZ provides 80% to 90% control of Yellow Foxtail, with a rating of 8.
+Fierce MTZ/Kyber provides 80% to 90% control of Yellow Foxtail, with a rating of 8.
+Flumioxazin is not recommended for Yellow Foxtail control, with a rating of '-'.
+Harness Max provides 90% to 100% control of Yellow Foxtail, with a rating of 9.
+Hornet is not recommended for Yellow Foxtail control, with a rating of '-'.
+Maverick provides 80% to 90% control of Yellow Foxtail, with a rating of 8.
+Mesotrione provides less than 60% control (not recommended) of Yellow Foxtail, with a rating of '-'.
+Metolachlor provides 90% to 100% control of Yellow Foxtail, with a rating of 9.
+Metolachlor + atrazine provides 90% to 100% control of Yellow Foxtail, with a rating of 9.
+Outlook, Armezon PRO provides 80% to 90% control of Yellow Foxtail, with a rating of 8+.
+Prequel provides 80% to 90% control of Yellow Foxtail, with a rating of 8.
+Python/Accolade is not recommended for Yellow Foxtail control, with a rating of '-'.
+Resicore XL provides 90% to 100% control of Yellow Foxtail, with a rating of 9.
+Resolve Q/Crusher is not recommended for Yellow Foxtail control, with a rating of '-'.
+Sharpen is not recommended for Yellow Foxtail control, with a rating of '-'.
+Simazine provides 80% to 90% control of Yellow Foxtail, with a rating of 8.
+SureStart/TripleFlex/Threesidual provides 80% to 90% control of Yellow Foxtail, with a rating of 8.
+Trivolt provides 90% to 100% control of Yellow Foxtail, with a rating of 9.
+Verdict provides 80% to 90% control of Yellow Foxtail, with a rating of 8.
+Zidua provides 80% to 90% control of Yellow Foxtail, with a rating of 8.
+Lorox/Linex is not recommended for Yellow Foxtail control, with a rating of '-'.
+Pendimethalin provides 80% to 90% control of Yellow Foxtail, with a rating of 8.

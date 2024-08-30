@@ -1,0 +1,32 @@
+Acetochlor provides 70% to 80% control of Field Sandbur, with a rating of 7.
+Acetochlor + atrazine provides 70% to 80% control of Field Sandbur, with a rating of 7.
+Acuron provides 60% to 70% control of Field Sandbur, with a rating of 6.
+Acuron Flexi provides 60% to 70% control of Field Sandbur, with a rating of 6.
+Anthem Flex/Maxx provides 60% to 70% control of Field Sandbur, with a rating of 6.
+Atrazine provides 60% to 70% control of Field Sandbur, with a rating of 6.
+Atrazine + mesotrione + metolachlor provides 60% to 70% control of Field Sandbur, with a rating of 6.
+Balance Flexx provides 60% to 70% control of Field Sandbur, with a rating of 6.
+Corvus provides 60% to 70% control of Field Sandbur, with a rating of 6.
+Coyote provides 60% to 70% control of Field Sandbur, with a rating of 6.
+Fierce EZ provides 60% to 70% control of Field Sandbur, with a rating of 6.
+Fierce MTZ/Kyber provides 60% to 70% control of Field Sandbur, with a rating of 6.
+Flumioxazin is not recommended for Field Sandbur control, with a rating of '-'.
+Harness Max provides 70% to 80% control of Field Sandbur, with a rating of 7.
+Hornet is not recommended for Field Sandbur control, with a rating of '-'.
+Maverick provides 60% to 70% control of Field Sandbur, with a rating of 6.
+Mesotrione is not recommended for Field Sandbur control, with a rating of '-'.
+Metolachlor provides 60% to 70% control of Field Sandbur, with a rating of 6.
+Metolachlor + atrazine provides 60% to 70% control of Field Sandbur, with a rating of 6.
+Outlook, Armezon PRO provides 60% to 70% control of Field Sandbur, with a rating of 6.
+Prequel is not recommended for Field Sandbur control, with a rating of '-'.
+Python/Accolade is not recommended for Field Sandbur control, with a rating of '-'.
+Resicore XL provides 70% to 80% control of Field Sandbur, with a rating of 7.
+Resolve Q/Crusher is not recommended for Field Sandbur control, with a rating of '-'.
+Sharpen is not recommended for Field Sandbur control, with a rating of '-'.
+Simazine provides 60% to 70% control of Field Sandbur, with a rating of 6.
+SureStart/TripleFlex/Threesidual provides less than 60% control (not recommended) of Field Sandbur, with a rating of '-'.
+Trivolt provides 70% to 80% control of Field Sandbur, with a rating of 7.
+Verdict provides 60% to 70% control of Field Sandbur, with a rating of 6.
+Zidua provides 60% to 70% control of Field Sandbur, with a rating of 6.
+Lorox/Linex is not recommended for Field Sandbur control, with a rating of '-'.
+Pendimethalin provides 70% to 80% control of Field Sandbur, with a rating of 7.

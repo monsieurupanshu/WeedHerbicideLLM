@@ -1,0 +1,32 @@
+Acetochlor provides 70% to 80% control of Woolly Cupgrass, with a rating of 7+.
+Acetochlor + atrazine provides 70% to 80% control of Woolly Cupgrass, with a rating of 7+.
+Acuron provides 70% to 80% control of Woolly Cupgrass, with a rating of 7.
+Acuron Flexi provides 70% to 80% control of Woolly Cupgrass, with a rating of 7.
+Anthem Flex/Maxx provides 60% to 70% control of Woolly Cupgrass, with a rating of 6.
+Atrazine provides less than 60% control of Woolly Cupgrass, with a rating of '-'.
+Atrazine + mesotrione + metolachlor provides 70% to 80% control of Woolly Cupgrass, with a rating of 7.
+Balance Flexx provides 80% to 90% control of Woolly Cupgrass, with a rating of 8.
+Corvus provides 70% to 80% control of Woolly Cupgrass, with a rating of 7.
+Coyote provides 70% to 80% control of Woolly Cupgrass, with a rating of 7.
+Fierce EZ provides 60% to 70% control of Woolly Cupgrass, with a rating of 6.
+Fierce MTZ/Kyber provides 60% to 70% control of Woolly Cupgrass, with a rating of 6.
+Flumioxazin is not recommended for Woolly Cupgrass control, with a rating of '-'.
+Harness Max provides 70% to 80% control of Woolly Cupgrass, with a rating of 7+.
+Hornet is not recommended for Woolly Cupgrass control, with a rating of '-'.
+Maverick provides 60% to 70% control for Woolly Cupgrass control, with a rating of '6'.
+Mesotrione provides less than 60% control of Woolly Cupgrass, with a rating of '-'.
+Metolachlor provides 70% to 80% control of Woolly Cupgrass, with a rating of 7.
+Metolachlor + atrazine provides 70% to 80% control of Woolly Cupgrass, with a rating of 7.
+Outlook, Armezon PRO provides 70% to 80% control of Woolly Cupgrass, with a rating of 7.
+Prequel provides 60% to 70% control of Woolly Cupgrass, with a rating of 6.
+Python/Accolade is not recommended for Woolly Cupgrass control, with a rating of '-'.
+Resicore XL provides 70% to 80% control of Woolly Cupgrass, with a rating of 7+.
+Resolve Q/Crusher is not recommended for Woolly Cupgrass control, with a rating of '-'.
+Sharpen is not recommended for Woolly Cupgrass control, with a rating of '-'.
+Simazine is not recommended for Woolly Cupgrass control, with a rating of '-'.
+SureStart/TripleFlex/Threesidual provides 60% to 70% control of Woolly Cupgrass, with a rating of 6.
+Trivolt provides less tha 60% control of Woolly Cupgrass, with a rating of '-'.
+Verdict provides 70% to 80% control of Woolly Cupgrass, with a rating of 7.
+Zidua provides 60% to 70% control of Woolly Cupgrass, with a rating of 6.
+Lorox/Linex is not recommended for Woolly Cupgrass control, with a rating of '-'.
+Pendimethalin provides 80% to 90% control of Woolly Cupgrass, with a rating of 8.

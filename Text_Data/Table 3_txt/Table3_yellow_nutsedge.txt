@@ -1,0 +1,32 @@
+Acetochlor provides 80% to 90% control for Yellow Nutsedge control, with a rating of 8.
+Acetochlor + atrazine provides 80% to 90% control for Yellow Nutsedge control, with a rating of 8.
+Acuron provides 80% to 90% control for Yellow Nutsedge control, with a rating of 8.
+Acuron Flexi provides 80% to 90% control for Yellow Nutsedge control, with a rating of 8.
+Anthem Flex/Maxx is not recommended for Yellow Nutsedge control, with a rating of '-'.
+Atrazine provides 70% to 80% control of Yellow Nutsedge and is recommended, with a rating of 7.
+Atrazine + mesotrione + metolachlor is recommended for Yellow Nutsedge control, with a rating of '8'.
+Balance Flexx is not recommended for Yellow Nutsedge control, with a rating of '-'.
+Corvus is recommended for Yellow Nutsedge with 70% to 80% control, with a rating of 7.
+Coyote is recommended for Yellow Nutsedge 80% to 90% control, with a rating of 8.
+Fierce EZ is not recommended for Yellow Nutsedge control, with a rating of '-'.
+Fierce MTZ/Kyber is not recommended for Yellow Nutsedge control, with a rating of '-'.
+Flumioxazin is not recommended for Yellow Nutsedge control, with a rating of '-'.
+Harness Max is recommended for Yellow Nutsedge with 80% to 90% control, with a rating of 8.
+Hornet is not recommended for Yellow Nutsedge control, with a rating of '-'.
+Maverick is not recommended for Yellow Nutsedge control, with a rating of '-'.
+Mesotrione is not recommended for Yellow Nutsedge control, with a rating of '-'.
+Metolachlor provides 80% to 90% control of Yellow Nutsedge and is recommended, with a rating of 8.
+Metolachlor + atrazine provides 80% to 90% control for Yellow Nutsedge control, with a rating of 8.
+Outlook, Armezon PRO provides 80% to 90% control for Yellow Nutsedge control, with a rating of 8.
+Prequel is not recommended for Yellow Nutsedge control, with a rating of '-'.
+Python/Accolade is not recommended for Yellow Nutsedge control, with a rating of '-'.
+Resicore XL provides 80% to 90% control for Yellow Nutsedge control, with a rating of 8
+Resolve Q/Crusher is not recommended for Yellow Nutsedge control, with a rating of '-'.
+Sharpen is not recommended for Yellow Nutsedge control, with a rating of '-'.
+Simazine is not recommended for Yellow Nutsedge control, with a rating of '-'.
+SureStart/TripleFlex/Threesidual is recommended for Yellow Nutsedge with 70% to 80% control, with a rating of 7.
+Trivolt is not recommended for Yellow Nutsedge control, with a rating of '-'.
+Verdict is not recommended for Yellow Nutsedge control, with a rating of '-'.
+Zidua is not recommended for Yellow Nutsedge control, with a rating of '-'.
+Lorox/Linex is not recommended for Yellow Nutsedge control, with a rating of '-'.
+Pendimethalin is not recommended for Yellow Nutsedge control, with a rating of '-'.

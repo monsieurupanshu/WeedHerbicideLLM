@@ -1,0 +1,9 @@
+A rating of 9 signifies 90% to 100% control of the weed.
+A rating of 8 signifies 80% to 90% control of the weed.
+A rating of 7 signifies 70% to 80% control of the weed.
+A rating of 6 signifies 60% to 70% control of the weed.
+A '-' rating signifies less than 60% control of the weed, and it is not recommended.
+A crop tolerance rating of 0 signifies excellent tolerance.
+A crop tolerance rating of 1 signifies good tolerance.
+A crop tolerance rating of 2 signifies fair tolerance.
+A crop tolerance rating of 3 signifies poor tolerance.

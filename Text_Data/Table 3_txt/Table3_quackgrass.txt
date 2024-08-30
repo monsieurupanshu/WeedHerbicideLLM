@@ -1,0 +1,32 @@
+Acetochlor is not recommended for Quackgrass control, with a rating of '-'.
+Acetochlor + atrazine is 60% to 70% Quackgrass control, with a rating of 6.
+Acuron is 60% to 70% Quackgrass control, with a rating of 6.
+Acuron Flexi is not recommended for Quackgrass control, with a rating of '-'.
+Anthem Flex/Maxx is not recommended for Quackgrass control, with a rating of '-'.
+Atrazine is 80% to 90% for Quackgrass control, with a rating of 8.
+Atrazine + mesotrione + metolachlor is 60% to 70% Quackgrass control, with a rating of 6.
+Balance Flexx is not recommended for Quackgrass control, with a rating of '-'.
+Corvus is not recommended for Quackgrass control, with a rating of '-'.
+Coyote is not recommended for Quackgrass control, with a rating of '-'.
+Fierce EZ is not recommended for Quackgrass control, with a rating of '-'.
+Fierce MTZ/Kyber is not recommended for Quackgrass control, with a rating of '-'.
+Flumioxazin is not recommended for Quackgrass control, with a rating of '-'.
+Harness Max is not recommended for Quackgrass control, with a rating of '-'.
+Hornet is not recommended for Quackgrass control, with a rating of '-'.
+Maverick provides 70% to 80% control of Quackgrass, with a rating of 7.
+Mesotrione is not recommended for Quackgrass control, with a rating of '-'.
+Metolachlor is not recommended for Quackgrass control, with a rating of '-'.
+Metolachlor + atrazine provides 70% to 80% control of Quackgrass, with a rating of 7.
+Outlook, Armezon PRO is not recommended for Quackgrass control, with a rating of '-'.
+Prequel is not recommended for Quackgrass control, with a rating of '-'.
+Python/Accolade is not recommended for Quackgrass control, with a rating of '-'.
+Resicore XL is not recommended for Quackgrass control, with a rating of '-'.
+Resolve Q/Crusher is not recommended for Quackgrass control, with a rating of '-'.
+Sharpen is not recommended for Quackgrass control, with a rating of '-'.
+Simazine provides 60% to 70% control of Quackgrass, with a rating of 6.
+SureStart/TripleFlex/Threesidual is not recommended for Quackgrass control, with a rating of '-'.
+Trivolt is not recommended for Quackgrass control, with a rating of '-'.
+Verdict is not recommended for Quackgrass control, with a rating of '-'.
+Zidua is not recommended for Quackgrass control, with a rating of '-'.
+Lorox/Linex is not recommended for Quackgrass control, with a rating of '-'.
+Pendimethalin is not recommended for Quackgrass control, with a rating of '-'.

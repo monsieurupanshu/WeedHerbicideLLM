@@ -1,0 +1,32 @@
+The crop tolerance rating for Acetochlor is 1, indicating good tolerance.
+The crop tolerance rating for Acetochlor + atrazine is 1, indicating good tolerance.
+The crop tolerance rating for Acuron is 1, indicating good tolerance.
+The crop tolerance rating for Acuron Flexi is 1, indicating good tolerance.
+The crop tolerance rating for Anthem Flex/Maxx is 1, indicating good tolerance.
+The crop tolerance rating for Atrazine is 0, indicating excellent tolerance.
+The crop tolerance rating for Atrazine + mesotrione + metolachlor is 1, indicating good tolerance.
+The crop tolerance rating for Balance Flexx is 1, indicating good tolerance.
+The crop tolerance rating for Corvus is 1, indicating good tolerance.
+The crop tolerance rating for Coyote is 1, indicating good tolerance.
+The crop tolerance rating for Fierce EZ is 1, indicating good tolerance.
+The crop tolerance rating for Fierce MTZ/Kyber is 1, indicating good tolerance.
+The crop tolerance rating for Flumioxazin is 1, indicating good tolerance.
+The crop tolerance rating for Harness Max is 1, indicating good tolerance.
+The crop tolerance rating for Hornet is 2, indicating fair tolerance.
+The crop tolerance rating for Maverick is 1, indicating good tolerance.
+The crop tolerance rating for Mesotrione is 1, indicating good tolerance.
+The crop tolerance rating for Metolachlor is 1, indicating good tolerance.
+The crop tolerance rating for Metolachlor + atrazine is 1, indicating good tolerance.
+The crop tolerance rating for Outlook, Armezon PRO is 1, indicating good tolerance.
+The crop tolerance rating for Prequel is 2, indicating fair tolerance.
+The crop tolerance rating for Python/Accolade is 2, indicating fair tolerance.
+The crop tolerance rating for Resicore XL is 1, indicating good tolerance.
+The crop tolerance rating for Resolve Q/Crusher is 1, indicating good tolerance.
+The crop tolerance rating for Sharpen is 1, indicating good tolerance.
+The crop tolerance rating for Simazine is 0, indicating excellent tolerance.
+The crop tolerance rating for SureStart/TripleFlex/Threesidual is 2, indicating fair tolerance.
+The crop tolerance rating for Trivolt is 1, indicating good tolerance.
+The crop tolerance rating for Verdict is 1, indicating good tolerance.
+The crop tolerance rating for Zidua is 1, indicating good tolerance.
+The crop tolerance rating for Lorox/Linex is 2, indicating fair tolerance.
+The crop tolerance rating for Pendimethalin is 2, indicating fair tolerance.

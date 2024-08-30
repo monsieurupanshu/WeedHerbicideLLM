@@ -1,0 +1,32 @@
+Acetochlor provides 90% to 100% control of Crabgrass, with a rating of 9.
+Acetochlor + atrazine provides 90% to 100% control of Crabgrass, with a rating of 9.
+Acuron provides 90% to 100% control of Crabgrass, with a rating of 9.
+Acuron Flexi provides 90% to 100% control of Crabgrass, with a rating of 9.
+Anthem Flex/Maxx provides 80% to 90% control of Crabgrass, with a rating of 8.
+Atrazine is not recommended for Crabgrass control, with a rating of '-'.
+Atrazine + mesotrione + metolachlor provides 90% to 100% control of Crabgrass, with a rating of 9.
+Balance Flexx provides 70% to 80% control of Crabgrass, with a rating of 7.
+Corvus provides 80% to 90% control of Crabgrass, with a rating of 8.
+Coyote provides 90% to 100% control of Crabgrass, with a rating of 9.
+Fierce EZ provides 80% to 90% control of Crabgrass, with a rating of 8.
+Fierce MTZ/Kyber provides 80% to 90% control of Crabgrass, with a rating of 8.
+Flumioxazin is not recommended for Crabgrass control, with a rating of '-'.
+Harness Max provides 90% to 100% control of Crabgrass, with a rating of 9.
+Hornet is not recommended for Crabgrass control, with a rating of '-'.
+Maverick provides 80% to 90% control of Crabgrass, with a rating of 8.
+Mesotrione provides 60% to 70% control of Crabgrass, with a rating of 6.
+Metolachlor provides 90% to 100% control of Crabgrass, with a rating of 9.
+Metolachlor + atrazine provides 90% to 100% control of Crabgrass, with a rating of 9.
+Outlook, Armezon PRO provides 90% to 100% control of Crabgrass, with a rating of 9.
+Prequel provides 70% to 80% control of Crabgrass, with a rating of 7.
+Python/Accolade is not recommended for Crabgrass control, with a rating of '-'.
+Resicore XL provides 90% to 100% control of Crabgrass, with a rating of 9.
+Resolve Q/Crusher provides 60% to 70% control of Crabgrass, with a rating of 6.
+Sharpen is not recommended for Crabgrass control, with a rating of '-'.
+Simazine provides 70% to 80% control of Crabgrass, with a rating of 7.
+SureStart/TripleFlex/Threesidual provides 80% to 90% control of Crabgrass, with a rating of 8.
+Trivolt provides 80% to 90% control of Crabgrass, with a rating of 8.
+Verdict provides 80% to 90% control of Crabgrass, with a rating of 8.
+Zidua provides 80% to 90% control of Crabgrass, with a rating of 8.
+Lorox/Linex is not recommended for Crabgrass control, with a rating of '-'.
+Pendimethalin provides 80% to 90% control of Crabgrass, with a rating of 8.

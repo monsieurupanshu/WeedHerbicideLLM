@@ -1,0 +1,32 @@
+The Site of Action for Acetochlor is 15.
+The Site of Action for Acetochlor + atrazine is 5/15.
+The Site of Action for Acuron is 5/27/15.
+The Site of Action for Acuron Flexi is 15/27.
+The Site of Action for Anthem Flex/Maxx is 14/15.
+The Site of Action for Atrazine is 5.
+The Site of Action for Atrazine + mesotrione + metolachlor is 5/27/15.
+The Site of Action for Balance Flexx is 27.
+The Site of Action for Corvus is 2/27.
+The Site of Action for Coyote is 15/27.
+The Site of Action for Fierce EZ is 14/15.
+The Site of Action for Fierce MTZ/Kyber is 5/14/15.
+The Site of Action for Flumioxazin is 14.
+The Site of Action for Harness Max is 15/27.
+The Site of Action for Hornet is 2/4.
+The Site of Action for Maverick is 4/15/27.
+The Site of Action for Mesotrione is 27.
+The Site of Action for Metolachlor is 15.
+The Site of Action for Metolachlor + atrazine is 5/15.
+The Site of Action for Outlook, Armezon PRO is 15, 15/27.
+The Site of Action for Prequel is 2/27.
+The Site of Action for Python/Accolade is 2.
+The Site of Action for Resicore XL is 4/15/27.
+The Site of Action for Resolve Q/Crusher is 2.
+The Site of Action for Sharpen is 14.
+The Site of Action for Simazine is 5.
+The Site of Action for SureStart/TripleFlex/Threesidual is 2/4/15.
+The Site of Action for Trivolt is 2/25/27.
+The Site of Action for Verdict is 14/15.
+The Site of Action for Zidua is 15.
+The Site of Action for Lorox/Linex is 7.
+The Site of Action for Pendimethalin is 3.
